@@ -4,3 +4,5 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 
 测试同步到github.
+
+测试同步到gitbook.
