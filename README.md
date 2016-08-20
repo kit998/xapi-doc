@@ -11,7 +11,7 @@
 * EPub
 * Mobi
 
-[在线阅读由GitBook托管](https://www.gitbook.com/book/kit998/xapi-doc), 对于Github上的这个版本库的修改会自动同步到Gitbook.com上面。
+[在线阅读由GitBook托管](https://www.gitbook.com/book/kit998/xapi-doc), 对于Github上的[这个版本库](https://github.com/kit998/xapi-doc)的修改会自动同步到Gitbook.com上面。
 
 ### 参与写作
 无论你是打算提供一些独立的章节，还是对现有文档的改进，我们都表示欢迎，参与文档的方法和参与Github上的其他项目的过程是一样的，你只要先Fork本项目，然后在你自己的项目库编写内容。当需要向主项目合并的时候，点击Github上面的Pull Request。
