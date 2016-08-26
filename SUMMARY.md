@@ -21,6 +21,7 @@
       * [5.2.1 OpenQuant平台安装](Part1/05.2.1.md)
       * [5.2.2 XAPI插件安装](Part1/05.2.2.md)
       * [5.2.3 OpenQuant卸载](Part1/05.2.3.md)
+      * [5.2.4 FAQ](Part1/05.2.4.md)
 * [Part Ⅱ. XAPI篇](Part2/Part2.md)
   * [6. 统一接口](Part1/02.0.md)    
     * [6.1. 概述](Part1/02.1.md)
